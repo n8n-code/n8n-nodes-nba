@@ -735,9 +735,9 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "GET Scoreboard V 2",
-					"value": "GET Scoreboard V 2",
-					"action": "GET Scoreboard V 2",
+					"name": "GET Scoreboard v2",
+					"value": "GET Scoreboard v2",
+					"action": "GET Scoreboard v2",
 					"description": "",
 					"routing": {
 						"request": {
@@ -2167,7 +2167,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Scoreboard V 2"
+						"GET Scoreboard v2"
 					]
 				}
 			}

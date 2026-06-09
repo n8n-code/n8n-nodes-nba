@@ -8,7 +8,7 @@ import type {
 export class NbaApi implements ICredentialType {
 	name = 'N8nDevNbaApi';
 
-	displayName = 'nba API';
+	displayName = 'Nba API';
 
 	icon: Icon = { light: 'file:../nodes/Nba/nba.png', dark: 'file:../nodes/Nba/nba.dark.png' };
 
@@ -22,7 +22,7 @@ export class NbaApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your nba API server',
+			description: 'The base URL of your Nba API server',
 		},
 		{
 			displayName: 'API Key',

@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class Nba implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'nba',
+		displayName: 'Nba',
 		name: 'N8nDevNba',
 		icon: { light: 'file:./nba.png', dark: 'file:./nba.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Destination for current and historic NBA statistics',
-		defaults: { name: 'nba' },
+		defaults: { name: 'Nba' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

@@ -53,9 +53,94 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Get allstarballotpredictor, Get boxscoreadvancedv 2, Get boxscorefourfactorsv 2, Get boxscoremiscv 2, Get boxscoreplayertrackv 2, Get boxscorescoringv 2, Get boxscoresummaryv 2, Get boxscoretraditionalv 2, Get boxscoreusagev 2, Get common team years, Get commonallplayers, Get commonplayerinfo, Get commonplayoffseries, Get commonteamroster, Get draftcombinedrillresults, Get draftcombinenonstationaryshooting, Get draftcombineplayeranthro, Get draftcombinespotshooting, Get draftcombinestats, Get drafthistory, Get franchisehistory, Get homepageleaders, Get homepagev 2, Get leaderstiles, Get leaguedashlineups, Get leaguedashplayerbiostats, Get leaguedashplayerclutch, Get leaguedashplayerptshot, Get leaguedashplayershotlocations, Get leaguedashplayerstats, Get leaguedashptdefend, Get leaguedashptteamdefend, Get leaguedashteamclutch, Get leaguedashteamptshot, Get leaguedashteamshotlocations, Get leaguedashteamstats, Get leagueleaders, Get playbyplay, Get playbyplayv 2, Get playercareerstats, Get playercompare, Get playerdashboardbyclutch, Get playerdashboardbygamesplits, Get playerdashboardbygeneralsplits, Get playerdashboardbylastngames, Get playerdashboardbyopponent, Get playerdashboardbyshootingsplits, Get playerdashboardbyteamperformance, Get playerdashboardbyyearoveryear, Get playerdashptpass, Get playerdashptreb, Get playerdashptshotdefend, Get playerdashptshots, Get playergamelog, Get playerprofile, Get playerprofilev 2, Get playersvsplayers, Get playervsplayer, Get playoffpicture, Get scoreboard, Get scoreboard v 2, Get shotchartdetail, Get shotchartlineupdetail, Get teamdashboardbyclutch, Get teamdashboardbygamesplits, Get teamdashboardbygeneralsplits, Get teamdashboardbylastngames, Get teamdashboardbyopponent, Get teamdashboardbyshootingsplits, Get teamdashboardbyteamperformance, Get teamdashboardbyyearoveryear, Get teamdashlineups, Get teamdashptpass, Get teamdashptreb, Get teamdashptshots, Get teamgamelog, Get teaminfocommon, Get teamplayerdashboard, Get teamplayeronoffdetails, Get teamplayeronoffsummary, Get teamvsplayer, Get teamyearbyyearstats, Get video status |
+<details>
+<summary><b>Default</b> (83 operations)</summary>
+
+- Get Allstarballotpredictor
+- Get Boxscoreadvancedv 2
+- Get Boxscorefourfactorsv 2
+- Get Boxscoremiscv 2
+- Get Boxscoreplayertrackv 2
+- Get Boxscorescoringv 2
+- Get Boxscoresummaryv 2
+- Get Boxscoretraditionalv 2
+- Get Boxscoreusagev 2
+- Get Common Team Years
+- Get Commonallplayers
+- Get Commonplayerinfo
+- Get Commonplayoffseries
+- Get Commonteamroster
+- Get Draftcombinedrillresults
+- Get Draftcombinenonstationaryshooting
+- Get Draftcombineplayeranthro
+- Get Draftcombinespotshooting
+- Get Draftcombinestats
+- Get Drafthistory
+- Get Franchisehistory
+- Get Homepageleaders
+- Get Homepagev 2
+- Get Leaderstiles
+- Get Leaguedashlineups
+- Get Leaguedashplayerbiostats
+- Get Leaguedashplayerclutch
+- Get Leaguedashplayerptshot
+- Get Leaguedashplayershotlocations
+- Get Leaguedashplayerstats
+- Get Leaguedashptdefend
+- Get Leaguedashptteamdefend
+- Get Leaguedashteamclutch
+- Get Leaguedashteamptshot
+- Get Leaguedashteamshotlocations
+- Get Leaguedashteamstats
+- Get Leagueleaders
+- Get Playbyplay
+- Get Playbyplayv 2
+- Get Playercareerstats
+- Get Playercompare
+- Get Playerdashboardbyclutch
+- Get Playerdashboardbygamesplits
+- Get Playerdashboardbygeneralsplits
+- Get Playerdashboardbylastngames
+- Get Playerdashboardbyopponent
+- Get Playerdashboardbyshootingsplits
+- Get Playerdashboardbyteamperformance
+- Get Playerdashboardbyyearoveryear
+- Get Playerdashptpass
+- Get Playerdashptreb
+- Get Playerdashptshotdefend
+- Get Playerdashptshots
+- Get Playergamelog
+- Get Playerprofile
+- Get Playerprofilev 2
+- Get Playersvsplayers
+- Get Playervsplayer
+- Get Playoffpicture
+- Get Scoreboard
+- Get Scoreboard v2
+- Get Shotchartdetail
+- Get Shotchartlineupdetail
+- Get Teamdashboardbyclutch
+- Get Teamdashboardbygamesplits
+- Get Teamdashboardbygeneralsplits
+- Get Teamdashboardbylastngames
+- Get Teamdashboardbyopponent
+- Get Teamdashboardbyshootingsplits
+- Get Teamdashboardbyteamperformance
+- Get Teamdashboardbyyearoveryear
+- Get Teamdashlineups
+- Get Teamdashptpass
+- Get Teamdashptreb
+- Get Teamdashptshots
+- Get Teamgamelog
+- Get Teaminfocommon
+- Get Teamplayerdashboard
+- Get Teamplayeronoffdetails
+- Get Teamplayeronoffsummary
+- Get Teamvsplayer
+- Get Teamyearbyyearstats
+- Get Video Status
+
+</details>
 
 ---
 
